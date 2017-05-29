@@ -1,0 +1,8 @@
+E:\Do an\Chat LAN\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+E:\Do an\Chat LAN\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+E:\Do an\Chat LAN\SimpleMessenger\obj\Debug\ChatLAN.Form1.resources
+E:\Do an\Chat LAN\SimpleMessenger\obj\Debug\SimpleMessenger.Properties.Resources.resources
+E:\Do an\Chat LAN\SimpleMessenger\obj\Debug\ChatLAN.csproj.GenerateResource.Cache
+E:\Do an\Chat LAN\SimpleMessenger\obj\Debug\SimpleMessenger.exe
+E:\Do an\Chat LAN\SimpleMessenger\obj\Debug\SimpleMessenger.pdb
+E:\Do an\Chat LAN\SimpleMessenger\obj\Debug\ChatLAN.csprojResolveAssemblyReference.cache
